@@ -7,7 +7,7 @@ Meu nome é **Geice Gomes**, tenho 25 anos e sou apaixonada por tecnologia/ dese
 
 
 
-- 🚀 Programadora Front-end em formaçao 
+- 🚀 Programadora Front-end Junior
 - 📍 de Belo Horizonte- Minas Gerais 
 
 
